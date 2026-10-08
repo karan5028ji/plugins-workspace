@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.55]
+
+### Dependencies
+
+- Upgraded to `dialog@2.8.2`
+- Upgraded to `notification@2.6.0`
+
 ## [2.0.54]
 
 ### Dependencies

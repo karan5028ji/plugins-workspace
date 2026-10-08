@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.51]
+
+### Dependencies
+
+- Upgraded to `dialog-js@2.8.2`
+- Upgraded to `notification-js@2.6.0`
+
 ## [2.0.50]
 
 ### Dependencies
